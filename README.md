@@ -1,2 +1,3 @@
-# Two Pointer Alog
-Playing with two pointer approach
+# Two Pointer Technique
+
+Tutorial - https://algodaily.com/lessons/using-the-two-pointer-technique/introduction
